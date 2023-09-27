@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281204367532",
+    "project_id": "uts-19312136",
+    "storage_bucket": "uts-19312136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281204367532:android:0ba4dcc4fdd6ce3718ff09",
+        "android_client_info": {
+          "package_name": "com.irfan.uts_19312136"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqMcPPLxJ9kWhBKCZTQO5SjJQ4vWyP4lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
